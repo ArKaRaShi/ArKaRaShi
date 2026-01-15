@@ -12,7 +12,7 @@ I focus on writing clean, production-ready code using modern frameworks like **N
 
 * **Clean Code:** I write self-documenting code and prioritize **strong typing** and **static analysis** to prevent runtime errors before they happen.
 * **End-to-End Ownership:** My experience as a sole backend developer has taught me to own the lifecycle—from interpreting business requirements to deployment.
-* **Practical Solutions:** I value delivering working software over over-engineering. I choose the right tool for the job, whether it's Python for data/AI or Node.js for real-time services.
+* **AI-Native:** I leverage AI agents to accelerate development, acting as the architect while directing AI tools to handle implementation details.
 
 ---
 
@@ -32,11 +32,12 @@ I focus on writing clean, production-ready code using modern frameworks like **N
   
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 **🌱 Currently Learning:**
-* **AI Integration** (LLM & RAG Workflows)
+* **Flutter & Dart** (Expanding into Mobile Development)
+* **Agentic AI Workflows**
 
 ---
 
@@ -44,7 +45,8 @@ I focus on writing clean, production-ready code using modern frameworks like **N
 
 | Role | Company | Engineering Impact |
 | :--- | :--- | :--- |
-| **Software Developer Intern** | **Playtorium Solutions** | **Full-Stack Delivery:** Contributed to 3 distinct projects simultaneously, utilizing **NestJS**, **FastAPI**, and **ASP.NET**. Acted as the sole backend developer on key modules, managing API design and database integrity under tight deadlines. |
+| **Contract Backend Developer** | **Kasetsart University** | **Business-Driven Development:** Translated complex university requirements into a comprehensive feature set for an E-Meeting platform. [cite_start]Delivered core lifecycle features (scheduling, agendas, resolutions) [cite: 14, 17] while ensuring the architecture supported scalable business logic. |
+| **Software Developer Intern** | **Playtorium Solutions** | [cite_start]**Full-Stack Delivery:** Built a secure AWS report portal using **FastAPI** and **Next.js**[cite: 22]. [cite_start]Refactored legacy CLI tools and resolved 25+ critical defects in an internal LMS during pre-production[cite: 23, 24]. |
 
 ---
 
@@ -52,9 +54,9 @@ I focus on writing clean, production-ready code using modern frameworks like **N
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **AI Course Explorer** *(Senior Project)* | **Python / LLM / RAG** | An intelligent system helping users discover skills and courses. Implements **Retrieval-Augmented Generation** to provide context-aware recommendations. |
-| **Fruit Sudoku** | **Web / JS** | A logic puzzle web app focusing on algorithm efficiency for puzzle generation and responsive UI design. |
-| **Idle Clicker Game** | **Godot** | An experiment in game loop architecture and state management, featuring custom animations and resource scaling logic. |
+| **AI Course Explorer** *(Senior Project)* | **Python / RAG / LLM** | **Multi-Stage RAG Pipeline:** Engineered a system that translates natural language into **Abstract Skills** (Query Expansion) and utilizes a custom **Heuristic Scorer (Reranker)** to resolve semantic mismatches in vector retrieval. |
+| **Crowd Funding Platform** | **Next.js / Firestore** | [cite_start]**Backend Team Lead:** Architected an investment platform with milestone-based funding[cite: 34]. [cite_start]Implemented **JWT Authentication** and optimized **Firestore NoSQL** schemas for complex project lifecycles[cite: 35, 36]. |
+| **Fruit Sudoku** | **Web / AI Agents** | **AI-Orchestration Experiment:** A logic puzzle web app built with **0% manual coding**. utilized a **Human-In-The-Loop (HITL)** workflow, focusing purely on architectural prompting and logic validation to test the limits of AI code generation. |
 
 ---
 
@@ -69,7 +71,7 @@ I focus on writing clean, production-ready code using modern frameworks like **N
 ### 🤝 Connect
 
 * **LinkedIn:** [ponthep-homkasorn](https://www.linkedin.com/in/ponthep-homkasorn-52a559324/)
-* **Email:** [ponthep.ho@gmail.com]
+* **Email:** [ponthep.ho@gmail.com](mailto:ponthep.ho@gmail.com)
 
 <div align="center">
   <sub><em>"Building reliable systems that solve real problems."</em></sub>
