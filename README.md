@@ -45,8 +45,8 @@ I focus on writing clean, production-ready code using modern frameworks like **N
 
 | Role | Company | Engineering Impact |
 | :--- | :--- | :--- |
-| **Contract Backend Developer** | **Kasetsart University** | **Business-Driven Development:** Translated complex university requirements into a comprehensive feature set for an E-Meeting platform. [cite_start]Delivered core lifecycle features[cite: 14, 17] while ensuring the architecture supported scalable business logic. |
-| **Software Developer Intern** | **Playtorium Solutions** | [cite_start]**Full-Stack Delivery:** Built a secure AWS report portal using **FastAPI** and **Next.js**[cite: 22]. [cite_start]Refactored legacy CLI tools and resolved 25+ critical defects in an internal LMS during pre-production[cite: 23, 24]. |
+| **Contract Backend Developer** | **Kasetsart University** | **Business-Driven Development:** Translated complex university requirements into a comprehensive feature set for an E-Meeting platform. Delivered core lifecycle features while ensuring the architecture supported scalable business logic. |
+| **Software Developer Intern** | **Playtorium Solutions** | **Full-Stack Delivery:** Built a secure AWS report portal using **FastAPI** and **Next.js**. Refactored legacy CLI tools and resolved 25+ critical defects in an internal LMS during pre-production. |
 
 ---
 
@@ -55,7 +55,7 @@ I focus on writing clean, production-ready code using modern frameworks like **N
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | **AI Course Explorer** *(Senior Project)* | **RAG / LLM** | **Multi-Stage RAG Pipeline:** Engineered a system that translates natural language into **Abstract Skills** (Query Expansion) and utilizes a custom **Heuristic Scorer (Reranker)** to resolve semantic mismatches in vector retrieval. |
-| **Crowd Funding Platform** | **Next.js / Firebase** | [cite_start]**Backend Team Lead:** Architected an investment platform with milestone-based funding[cite: 34]. [cite_start]Implemented **JWT Authentication** and optimized **Firestore NoSQL** schemas for complex project lifecycles[cite: 35, 36]. |
+| **Crowd Funding Platform** | **Next.js / Firebase** | **Backend Team Lead:** Architected an investment platform with milestone-based funding. Implemented **JWT Authentication** and optimized **Firestore NoSQL** schemas for complex project lifecycles. |
 | **Fruit Sudoku** | **Web / AI Agents** | **AI-Orchestration Experiment:** A logic puzzle web app built with **0% manual coding**. utilized a **Human-In-The-Loop (HITL)** workflow, focusing purely on architectural prompting and logic validation to test the limits of AI code generation. |
 
 ---
